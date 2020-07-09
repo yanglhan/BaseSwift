@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  MGFaceIDDetect
+
+  Created by Megvii on 2017/7/17.
+  Copyright © 2017年 megvii. All rights reserved.
+*/
+
+"livenessExitLeftPromptText" = "취소";
+"livenessExitRightPromptText" = "확정";
+"livenessExitTitlePromptText" = "나가시겠습니까? ";
+"livenessHomePromptWaitText" = "인증을 기다려 주십시오";
+"livenessHomePromptBlinkText" = "눈을 깜빡여 주십시오";
+"livenessHomePromptOpenMouthText" = "입을 열고 닫아 주십시오";
+"livenessHomePromptShakeHeadText" = "머리를 흔들어 주십시오";
+"livenessHomePromptNodText" = "머리를 끄덕여 주십시오";
+"livenessHomePromptFrontalFaceText" = "얼굴 정면을 보여 주십시오";
+"livenessHomePromptFaceEreaText" = "감지 할 얼굴 영역이 잘못되었습니다";
+"livenessHomePromptBrighterText" = "조금 밝은 환경에서 진행해 주시길 바랍니다";
+"livenessHomePromptDarkerText" = "조금 어두운 환경에서 진행해 주시길 바랍니다";
+"livenessHomePromptCloserText" = "조금 더 가깝게 붙어주시길 바랍니다";
+"livenessHomePromptFurtherText" = "조금 떨어져서 진행 해 주시길 바랍니다";
+"livenessHomePromptNoBacklightingText" = "옆의 조명과 안의 조명을 피해 주시길 바랍니다";
+"livenessHomePromptFrontalFaceInBoundingBoxText" = "정면 얼굴을 경계선 박스에 넣어 주시길 바랍니다";
+"livenessHomePromptNoEyesOcclusionText" = "눈이 가려지지 않도록 주의해 주십시오";
+"livenessHomePromptNoMouthOcclusionText" = "입이 가려지지 않도록 주의해 주십시오";
+"livenessHomePromptVerticalText" = "휴대 전화를 들고 수직으로 유지하여 주시길 바랍니다";
+"livenessHomePromptStayStillText" = "좋습니다. 상태를 유지 하여 주시길 바랍니다";

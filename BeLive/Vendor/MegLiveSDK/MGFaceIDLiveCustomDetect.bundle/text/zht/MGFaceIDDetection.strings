@@ -1,0 +1,28 @@
+/*
+ Localizable.strings
+ MGFaceIDDetect
+ 
+ Created by Megvii on 2017/7/17.
+ Copyright © 2017年 megvii. All rights reserved.
+ */
+
+"livenessExitLeftPromptText" = "取消";
+"livenessExitRightPromptText" = "確定";
+"livenessExitTitlePromptText" = "確定退出嗎？";
+"livenessHomePromptWaitText" = "驗證中，請稍候";
+"livenessHomePromptBlinkText" = "請眨眼";
+"livenessHomePromptOpenMouthText" = "請張嘴";
+"livenessHomePromptShakeHeadText" = "請向左或向右緩慢轉頭";
+"livenessHomePromptNodText" = "請緩慢點頭";
+"livenessHomePromptFrontalFaceText" = "請讓我看到您的正臉";
+"livenessHomePromptFaceEreaText" = "人臉有效面積太小";
+"livenessHomePromptBrighterText" = "請讓光線再亮點";
+"livenessHomePromptDarkerText" = "請讓光線再暗點";
+"livenessHomePromptCloserText" = "請再靠近一些";
+"livenessHomePromptFurtherText" = "請離屏幕遠一些";
+"livenessHomePromptNoBacklightingText" = "請避免側光或背光";
+"livenessHomePromptFrontalFaceInBoundingBoxText" = "請將正臉置於取景框內";
+"livenessHomePromptNoEyesOcclusionText" = "請勿遮擋眼睛";
+"livenessHomePromptNoMouthOcclusionText" = "請勿遮擋嘴巴";
+"livenessHomePromptVerticalText" = "請您拿起手機，保持手機垂直";
+"livenessHomePromptStayStillText" = "很好，請保持不動";

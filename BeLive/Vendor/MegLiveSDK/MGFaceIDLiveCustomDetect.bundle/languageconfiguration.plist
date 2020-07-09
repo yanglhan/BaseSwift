@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MGFaceIDLiveLanguage</key>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>MGFaceIDLiveDetectLanguageCh</string>
+			<key>enum</key>
+			<integer>0</integer>
+			<key>mask</key>
+			<string>ch</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>MGFaceIDLiveDetectLanguageEn</string>
+			<key>enum</key>
+			<integer>1</integer>
+			<key>mask</key>
+			<string>en</string>
+		</dict>
+        <dict>
+            <key>type</key>
+            <string>MGFaceIDLiveDetectLanguageZht</string>
+            <key>enum</key>
+            <integer>2</integer>
+            <key>mask</key>
+            <string>zht</string>
+        </dict>
+        <dict>
+            <key>type</key>
+            <string>MGFaceIDLiveDetectLanguageJa</string>
+            <key>enum</key>
+            <integer>3</integer>
+            <key>mask</key>
+            <string>ja</string>
+        </dict>
+        <dict>
+            <key>type</key>
+            <string>MGFaceIDLiveDetectLanguageKo</string>
+            <key>enum</key>
+            <integer>4</integer>
+            <key>mask</key>
+            <string>ko</string>
+        </dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  MGFaceIDDetect
+
+  Created by Megvii on 2017/7/17.
+  Copyright © 2017年 megvii. All rights reserved.
+*/
+
+"livenessExitLeftPromptText"                 =           "キャンセル";
+"livenessExitRightPromptText"                 =           "確認";
+"livenessExitTitlePromptText"                 =           "本当に終了しますか?";
+"livenessHomePromptWaitText"                 =           "認証をお待ちください";
+"livenessHomePromptBlinkText"                 =           "目をパチパチしてください";
+"livenessHomePromptOpenMouthText"                 =           "口の開け閉めを繰り返してください";
+"livenessHomePromptShakeHeadText"                 =           "手を振ってください";
+"livenessHomePromptNodText"                 =           "頭を上下に振ってください";
+"livenessHomePromptFrontalFaceText" = "顔の正面を見せてください";
+"livenessHomePromptFaceEreaText" = "顔が検出されませんでした";
+"livenessHomePromptBrighterText" = "明るい場所で行ってください";
+"livenessHomePromptDarkerText" = "明るすぎない場所で行ってください";
+"livenessHomePromptCloserText" = "近づいてください";
+"livenessHomePromptFurtherText" = "少し離れてください";
+"livenessHomePromptNoBacklightingText" = "サイド照明とバック照明を避けてください";
+"livenessHomePromptFrontalFaceInBoundingBoxText" = "顔全体を合わせてください";
+"livenessHomePromptNoEyesOcclusionText" = "目がふさがらないようにしてください";
+"livenessHomePromptNoMouthOcclusionText" = "口がふさがらないようにしてください";
+"livenessHomePromptVerticalText" = "携帯を垂直に持ってください";
+"livenessHomePromptStayStillText" = "この状態を維持してください";
